@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="IntecPrac1.Login" BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout  BackgroundColor="White" VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+
+            <Image  Source="http://www.intec.edu.do/identidad-corporativa/descargas/logo_intec/logo-intec-secundario.png" HeightRequest="100" />
+
+            <Entry Placeholder="Email" 
+                   x:Name="txtEmail" />
+
+            <Entry Placeholder="Password" 
+                   IsPassword="True" 
+                   x:Name="txtPassword" />
+
+            <Button Text="Login" 
+                    BackgroundColor="Red" 
+                    TextColor="White"  CornerRadius="10" Clicked="OnValidate" />
+            
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
