@@ -11,6 +11,7 @@ namespace IntecPrac1
             InitializeComponent();
 
             MainPage = new Login();
+
         }
 
         protected override void OnStart()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EmySa\\source\\repos\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj": {}
+    "C:\\Users\\EmySa\\source\\repos\\GitLoginIntec\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EmySa\\source\\repos\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj": {
+    "C:\\Users\\EmySa\\source\\repos\\GitLoginIntec\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmySa\\source\\repos\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj",
+        "projectUniqueName": "C:\\Users\\EmySa\\source\\repos\\GitLoginIntec\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj",
         "projectName": "IntecPrac1",
-        "projectPath": "C:\\Users\\EmySa\\source\\repos\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj",
+        "projectPath": "C:\\Users\\EmySa\\source\\repos\\GitLoginIntec\\IntecPrac1\\IntecPrac1\\IntecPrac1\\IntecPrac1.csproj",
         "packagesPath": "C:\\Users\\EmySa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmySa\\source\\repos\\IntecPrac1\\IntecPrac1\\IntecPrac1\\obj\\",
+        "outputPath": "C:\\Users\\EmySa\\source\\repos\\GitLoginIntec\\IntecPrac1\\IntecPrac1\\IntecPrac1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

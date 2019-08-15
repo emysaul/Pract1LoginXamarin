@@ -10,3 +10,16 @@ C:\Users\EmySa\source\repos\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstanda
 C:\Users\EmySa\source\repos\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.dll
 C:\Users\EmySa\source\repos\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.pdb
 C:\Users\EmySa\source\repos\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.csprojAssemblyReference.cache
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\bin\Debug\netstandard2.0\IntecPrac1.deps.json
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\bin\Debug\netstandard2.0\IntecPrac1.dll
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\bin\Debug\netstandard2.0\IntecPrac1.pdb
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.csproj.CoreCompileInputs.cache
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.AssemblyInfoInputs.cache
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.AssemblyInfo.cs
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.dll
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.pdb
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.Properties.Resources.resources
+C:\Users\EmySa\source\repos\GitLoginIntec\IntecPrac1\IntecPrac1\IntecPrac1\obj\Debug\netstandard2.0\IntecPrac1.csproj.GenerateResource.cache

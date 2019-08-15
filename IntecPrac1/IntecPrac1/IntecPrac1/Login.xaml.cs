@@ -16,6 +16,7 @@ namespace IntecPrac1
         public Login()
         {
             InitializeComponent();
+            picLog.Source = ImageSource.FromResource("IntecPrac1.logoIntec.jpg");
         }
 
         public async void OnValidate(object sender, EventArgs e)
